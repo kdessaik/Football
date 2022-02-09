@@ -1,4 +1,4 @@
-var num =0
+var num =3
 function ballon(){ 
 var h2=document.createElement('h2')
     h2.setAttribute('id','p1')
