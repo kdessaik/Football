@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(0, 198, 212);
+}
+h1{
+    background-color: white;
+    padding: 2%;
+    text-align: center;
+    }
+.allPage{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:row;
+    
+}
+#Manchester{
+    width:50%;
+    margin-left: 20%;
+    border-right: 5px solid #fff;
+}
+#LiverPool{
+    width: 50%;
+    margin-left: 20%;
+}
+.allPage img{
+    width: 30%;
+}
+.allPage p{
+    color: white;
+    font-size: 150%;
+    font-weight: bold;
+}
+.allPage button{
+    background-color: #fff;
+    padding: 2%;
+    width: 30%;
+    border-radius: 10%;
+}
+.allPage div{
+    font-size: 200%;
+    color: #fff;
+    margin-left: 15%;
+}
+#Reset{
+    position: relative;
+    left: 45%;
+    padding-top: 1%;
+    padding-bottom:1% ;
+    padding-left: 3%;
+    padding-right: 3%;
+    color: black;
+    margin-top: 10%;
+    
+    
+}
+button{
+    font-weight: bolder;
+}
+
+
