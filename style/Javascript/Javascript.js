@@ -19,3 +19,6 @@ document.getElementById('Goal1').innerText= value2
 
     
 }
+function Reset(){
+document.getElementById('Goal1').remove()
+}
