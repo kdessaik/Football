@@ -9,7 +9,7 @@ var theGoal=document.createTextNode(num)
     para.appendChild(h2)}ballon()
 function Goal1(){
     var value1=document.getElementById('Goal1').value
- ; var value2=++value1;
+ ; var value2=value1+1;
 document.getElementById('Goal1').innerText= value2
 
     
