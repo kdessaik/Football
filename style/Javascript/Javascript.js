@@ -8,9 +8,10 @@ var theGoal=document.createTextNode(num)
     
     para.appendChild(h2)}
 function Goal1(){
-    var value1=num
- ; var value2=++value1;
-document.getElementById('Goal1').innerText= value2
+    
+ if(value1=num)
+{value1++
+document.getElementById('Goal1').innerText= value1
 
     
     
@@ -20,5 +21,5 @@ document.getElementById('Goal1').innerText= value2
     
 }
 function Reset(){
-document.getElementById('Goal1').remove()
+document.getElementById('p1').remove()
 }
