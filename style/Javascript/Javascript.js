@@ -6,10 +6,10 @@ var theGoal=document.createTextNode(num)
     h2.appendChild(theGoal)
     var para=document.getElementById('Goal1')
     
-    para.appendChild(h2)}ballon()
+    para.appendChild(h2)}
 function Goal1(){
-    var value1=document.getElementById('Goal1').value
- ; var value2=value1+1;
+    var value1=num
+ ; var value2=++value1;
 document.getElementById('Goal1').innerText= value2
 
     
