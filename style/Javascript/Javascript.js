@@ -6,7 +6,7 @@ var theGoal=document.createTextNode(num)
     h2.appendChild(theGoal)
     var para=document.getElementById('Goal1')
     
-    para.appendChild(h2)}
+    para.appendChild(h2)}ballon()
 function Goal1(){
     
  if(value1=num)
