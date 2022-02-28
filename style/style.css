@@ -55,5 +55,13 @@ h1{
 button{
     font-weight: bolder;
 }
+#img2{
+    width: 200%;
+}
+#h3{
+    color:black ;
+    background-color: rgb(0, 198, 212) ;
+    font-size: large;
+}
 
 

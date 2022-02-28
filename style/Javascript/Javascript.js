@@ -24,6 +24,8 @@ var i1=0;
 var i2=0;
 var i3=0;
 //Goal1
+
+
 function Goal1() {
 
 G1.setAttribute('id','p1');
